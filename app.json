@@ -1,0 +1,13 @@
+
+{
+  "expo": {
+    "name": "my MBG",
+    "slug": "my-mbg",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.mymbg.sekolah"
+    }
+  }
+}
